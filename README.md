@@ -2,6 +2,8 @@
 
 A Bash terminal spectacle inspired by [Hollywood](https://github.com/dustinkirkland/hollywood). It uses tmux to create a changing grid of independently running panes, with each pane showing real local system data or output from a Linux utility.
 
+**IMPORTANT**: This script may display sensitive information. Consider to not record this on video or run the [original app](https://github.com/dustinkirkland/hollywood) on a container instead. This script was made because I can't really be bothered to pull a whole docker image just to do something silly in front of my friends.
+
 ## Requirements
 
 - Bash
